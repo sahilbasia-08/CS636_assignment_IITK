@@ -1,0 +1,5 @@
+Thread begin: 0
+TID: 0, IP: 0x77, ADDR: 0x9, Size (B): 4, isRead: 0
+Thread begin: 1
+TID: 1, IP: 0x77, ADDR: 0xa, Size (B): 16, isRead: 1
+TID: 2, IP: 0x77, ADDR: 0x7, Size (B): 4, isRead: 1
